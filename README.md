@@ -16,7 +16,7 @@ Api development by Morg4n, an easy example of how to use spring boot with a MySQ
    ```
    It will generate the images of the Spring boot application and MySQL inside a container
 
-The API will be available at http://localhost:5000.
+The API will be available at http://localhost:5000    
 Documentation: http://localhost:5000/swagger-ui.html
 
 Tecnologies:
@@ -31,10 +31,8 @@ Tecnologies:
    - Model Mapper
 3. MySQL: 8.0.33 
 
-Julian Camacho Erazo <jdacamachoe@gmail.com>
-
-Software Developer
-
+Julian Camacho Erazo <jdacamachoe@gmail.com>  
+Software Developer  
 Lover of open source
 
 
